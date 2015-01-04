@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.sudoku.MainActivity" >
+    
+    <item android:id="@+id/settings"
+		android:title="@string/settings_label"
+		android:alphabeticShortcut="@string/settings_shortcut" />
+
+</menu>
+<!-- From: file:/C:/Users/yijia1/Documents/GitHub/Teamwork_Sudoku_Project/app/src/main/res/menu/main.xml -->

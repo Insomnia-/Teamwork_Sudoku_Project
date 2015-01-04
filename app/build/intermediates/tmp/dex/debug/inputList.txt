@@ -1,0 +1,10 @@
+C:\Users\yijia1\Documents\GitHub\Teamwork_Sudoku_Project\app\build\intermediates\classes\debug
+C:\Users\yijia1\Documents\GitHub\Teamwork_Sudoku_Project\app\build\intermediates\pre-dexed\debug\httpmime-4.2.4-206ca11cee063631b65d61382994a23c1661c195.jar
+C:\Users\yijia1\Documents\GitHub\Teamwork_Sudoku_Project\app\build\intermediates\pre-dexed\debug\avosstatistics-v2.6.9.4-8dbbbb984023bb7edeab7a92ae4ebdd4b3282993.jar
+C:\Users\yijia1\Documents\GitHub\Teamwork_Sudoku_Project\app\build\intermediates\pre-dexed\debug\weibo.sdk.android.sso-9826f543b46fcd53d6c88d46a94756c9e1973eaf.jar
+C:\Users\yijia1\Documents\GitHub\Teamwork_Sudoku_Project\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.6-1cf323d6efef8dbb6d6628e6c4f48666adbe6e22.jar
+C:\Users\yijia1\Documents\GitHub\Teamwork_Sudoku_Project\app\build\intermediates\pre-dexed\debug\avospush-v2.6.9.4-bf8687a65526af0c8c190f3fde36f700ae8c8102.jar
+C:\Users\yijia1\Documents\GitHub\Teamwork_Sudoku_Project\app\build\intermediates\pre-dexed\debug\fastjson-aa466e8281e6f2dc370fb7ee727c06bf34a34f35.jar
+C:\Users\yijia1\Documents\GitHub\Teamwork_Sudoku_Project\app\build\intermediates\pre-dexed\debug\avoscloud-v2.6.9.4-4cc814cbcb9573767aa0dbfa094ac2856de0491b.jar
+C:\Users\yijia1\Documents\GitHub\Teamwork_Sudoku_Project\app\build\intermediates\pre-dexed\debug\qq.sdk.1.6.1-b32950af4a0c3522b15368d9dcaa1825139c60ce.jar
+C:\Users\yijia1\Documents\GitHub\Teamwork_Sudoku_Project\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-7d55e83520747410096069f67411a15fad3507e2.jar
