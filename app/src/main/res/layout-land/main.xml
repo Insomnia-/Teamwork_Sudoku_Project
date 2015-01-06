@@ -40,6 +40,11 @@
 				android:id="@+id/exit_button"
 				android:text="@string/exit_label" />
 		</TableRow>
+        <TableRow>
+            <Button
+                android:id="@+id/message_button"
+                android:text="@string/message_button" />
+        </TableRow>
 		</TableLayout>
 	</LinearLayout>
 </LinearLayout>

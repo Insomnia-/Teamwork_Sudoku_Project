@@ -38,5 +38,10 @@ android:orientation="horizontal" >
 			android:layout_width="fill_parent"
 			android:layout_height="wrap_content"
 			android:text="@string/exit_label" />
+        <Button
+            android:id="@+id/message_button"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/message_label" />
 	</LinearLayout>
 </LinearLayout>

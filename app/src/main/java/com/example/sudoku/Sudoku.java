@@ -32,7 +32,9 @@ public class Sudoku extends Activity implements OnClickListener {
         aboutButton.setOnClickListener(this);
         View exitButton = findViewById(R.id.exit_button);
         exitButton.setOnClickListener(this);
-        
+        View msgButton = findViewById(R.id.message_button);
+        msgButton.setOnClickListener(this);
+
         // If the activity is restarted, do a continue next time
         // getIntent().putExtra(Game.KEY_DIFFICULTY, Game.DIFFICULTY_CONTINUE);
 
@@ -87,6 +89,9 @@ public class Sudoku extends Activity implements OnClickListener {
 			case R.id.continue_button:
 				startGame(Game.DIFFICULTY_CONTINUE);
 				break;
+            case R.id.message_button:
+                startMessage();
+                break;
 			// More buttons go here (if any) ...
 		}
 	}
@@ -114,6 +119,10 @@ public class Sudoku extends Activity implements OnClickListener {
 		intent.putExtra(Game.KEY_DIFFICULTY, i);
 		startActivity(intent);
 	}
+
+    private void startMessage() {
+        //TODO:
+    }
 	
 	@Override
 	protected void onResume() {
