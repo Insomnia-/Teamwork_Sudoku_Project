@@ -46,6 +46,7 @@
     <string name="keypad_title">Keypad</string>
     <string name="main_title">Android Sudoku</string>
     <string name="medium_label">Medium</string>
+    <string name="message_label">Message</string>
     <string name="music_summary">Play background music</string>
     <string name="music_title">Music</string>
     <string name="new_game_label">New Game</string>

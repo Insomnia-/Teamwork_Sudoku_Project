@@ -41,18 +41,19 @@ public final class R {
         public static final int about_content=0x7f0d0000;
         public static final int continue_button=0x7f0d0001;
         public static final int exit_button=0x7f0d0004;
-        public static final int keypad=0x7f0d0005;
-        public static final int keypad_1=0x7f0d0006;
-        public static final int keypad_2=0x7f0d0007;
-        public static final int keypad_3=0x7f0d0008;
-        public static final int keypad_4=0x7f0d0009;
-        public static final int keypad_5=0x7f0d000a;
-        public static final int keypad_6=0x7f0d000b;
-        public static final int keypad_7=0x7f0d000c;
-        public static final int keypad_8=0x7f0d000d;
-        public static final int keypad_9=0x7f0d000e;
+        public static final int keypad=0x7f0d0006;
+        public static final int keypad_1=0x7f0d0007;
+        public static final int keypad_2=0x7f0d0008;
+        public static final int keypad_3=0x7f0d0009;
+        public static final int keypad_4=0x7f0d000a;
+        public static final int keypad_5=0x7f0d000b;
+        public static final int keypad_6=0x7f0d000c;
+        public static final int keypad_7=0x7f0d000d;
+        public static final int keypad_8=0x7f0d000e;
+        public static final int keypad_9=0x7f0d000f;
+        public static final int message_button=0x7f0d0005;
         public static final int new_button=0x7f0d0002;
-        public static final int settings=0x7f0d000f;
+        public static final int settings=0x7f0d0010;
     }
     public static final class layout {
         public static final int about=0x7f030000;
@@ -84,14 +85,15 @@ public final class R {
         public static final int keypad_title=0x7f0a000c;
         public static final int main_title=0x7f0a000d;
         public static final int medium_label=0x7f0a000e;
-        public static final int music_summary=0x7f0a000f;
-        public static final int music_title=0x7f0a0010;
-        public static final int new_game_label=0x7f0a0011;
-        public static final int new_game_title=0x7f0a0012;
-        public static final int no_moves_label=0x7f0a0013;
-        public static final int settings_label=0x7f0a0014;
-        public static final int settings_shortcut=0x7f0a0015;
-        public static final int settings_title=0x7f0a0016;
+        public static final int message_label=0x7f0a000f;
+        public static final int music_summary=0x7f0a0010;
+        public static final int music_title=0x7f0a0011;
+        public static final int new_game_label=0x7f0a0012;
+        public static final int new_game_title=0x7f0a0013;
+        public static final int no_moves_label=0x7f0a0014;
+        public static final int settings_label=0x7f0a0015;
+        public static final int settings_shortcut=0x7f0a0016;
+        public static final int settings_title=0x7f0a0017;
     }
     public static final class style {
         /** 

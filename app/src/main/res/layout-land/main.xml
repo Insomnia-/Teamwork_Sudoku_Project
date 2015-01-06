@@ -43,7 +43,7 @@
         <TableRow>
             <Button
                 android:id="@+id/message_button"
-                android:text="@string/message_button" />
+                android:text="@string/message_label" />
         </TableRow>
 		</TableLayout>
 	</LinearLayout>
